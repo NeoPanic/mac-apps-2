@@ -43,6 +43,7 @@ A reference list of apps for setting up a new Mac.
 ## Notes & Writing
 
 - [Flux Markdown](https://github.com/xykong/flux-markdown) - Markdown preview in Finder
+- [Glim](https://github.com/NeoPanic/Glim) — Markdown, PDF, data and source-code viewer for macOS, with basic text editing
 - [Scratch](https://github.com/erictli/scratch) — Markdown notes app
 - [Handy Computer](https://handy.computer/docs) — speech-to-text
 - [HyprNote](https://github.com/fastrepl/hyprnote) — meeting notes
